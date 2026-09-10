@@ -1,0 +1,6 @@
+# Core project runs on pure Python 3.12 Standard Library.
+# Optional dependencies matching the competition platform environment:
+numpy>=1.26.4
+pandas>=2.2.3
+pytest>=8.0.0
+psutil>=5.9.0

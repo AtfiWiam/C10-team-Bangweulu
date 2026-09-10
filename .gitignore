@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Large raw datasets (track scripts and small samples instead)
+*.zip
+data/raw/
+*.tmp
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
