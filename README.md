@@ -98,15 +98,19 @@ python test\_superBPE\_v7.py languages.txt --tokenizer tokenizer.json
 
 ### Appendix
 
-* **Team Members**: Wiam Atfi and George Aladejana (Team Bangweulu).
+* **Core Development Team** : Wiam Atfi and George Aladejana (Team Bangweulu).
+* **Early contributor** : Adejare Emmanuel and Olakunle Adeyemi Obasoro (Team Bangweulu).
 * **Mentor**: Elinah Moyo.
 * **Data Sources \& Licenses**: MasakhaNER 2.0 / MasakhaPOS (CC-BY-4.0), AfriSenti (CC-BY-4.0), arabic-dialect-corpus (MIT), isiZulu news, Kanuri book corpus (CC-BY-4.0), Fulah sentiment corpus (MIT), Health translation dataset (MIT), Chichewa MT, bible zarma, Bambara raw text, Akan sentiments corpus (MIT), Wori-wolof instructions (CC-BY-4.0).
+* **Citations :**
 
- 
+"
 
-### References **:**
+SuperBPE: Space Travel for Language Models
 
+Alisa Liu, Jonathan Hayase, Valentin Hofmann, Sewoong Oh, Noah A. Smith, Yejin Choi
 
+"
 
 “
 
@@ -228,5 +232,7 @@ url = {https://huggingface.co/datasets/m-a-d-i/wori-wolof-instructions}
 
 “
 
- 
+### REFERENCES:
+
+SuperBPE: Space Travel for Language Models, Alisa Liu, Jonathan Hayase, Valentin Hofmann, Sewoong Oh, Noah A. Smith, Yejin Choi,  COLM 2025
 
